@@ -3,6 +3,9 @@ Abuse of Google Colab for fun and profit. 🐧
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mxrch/penglab/blob/master/penglab.ipynb)
 
+# Added functions
+map_GDrive - to map google drive hashcat foler to /root/.hashcat - should allow for jobs to be resumed if instance dies/gets shutdown after 12 hrs
+
 ## What is it ?
 
 **Penglab** is a ready-to-install setup on Google Colab for cracking hashes with an incredible power, really useful for CTFs. *(See benchmarks below.)*
